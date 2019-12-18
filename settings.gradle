@@ -1,0 +1,2 @@
+include ':app', ':router_compiler', ':router_api', ':module_chat'
+rootProject.name='RouterDemo'
